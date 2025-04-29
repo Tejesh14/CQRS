@@ -1,9 +1,9 @@
 # Pre-requisites
-Visual Studio 2022
+Visual Studio 2022 <br />
 .NET 8
 
 # CQRS
 
-Clone the repo.
-Open Visual Studio 2022
+Clone the repo. <br />
+Open Visual Studio 2022 <br />
 Run the application
